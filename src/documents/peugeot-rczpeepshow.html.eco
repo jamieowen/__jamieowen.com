@@ -1,0 +1,11 @@
+---
+title: Peugeot | RCZ Peepshow
+layout: page
+tags: ['intro','page']
+pageOrder: 2
+associatedFilesPath: "images/peugeot-rczpeepshow"
+---
+
+<p>Installation for car manufacturer <a href="http://www.peugeot.co.uk/">Peugeot</a> to showcase their new <a href="http://www.peugeot.co.uk/showroom/rcz/coupe">RCZ</a> sports car.  The concept was based on a "peepshow" interactive booth that was positioned in large shopping malls across the UK including <a href="http://uk.westfield.com/london/">Westfield White City</a>, London and <a href="http://www.bullring.co.uk/">The Bull Ring</a>, Birmingham. Shoppers were encouraged to peep through a small window and use a touch panel interface to navigate a 3D interactive version of the RCZ and it's features.</p>
+
+The installation was designed by agency <a href="http://signal-noise.co.uk/">Signal-Noise</a>. Development was carried out using C++/OpenFrameworks and involved composing an interactive scene with pre-rendered 3D rotating car and background video sequences. Sequences were triggered at different stages of the interaction. Dynamic particle system animations reacting to the users touch were layered over the entire composition.<p>

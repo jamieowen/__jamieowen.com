@@ -1,0 +1,13 @@
+---
+title: Adidas | DFB Germany
+layout: page
+tags: ['intro','page']
+pageOrder: 10
+associatedFilesPath: "images/adidas-dfbeuro"
+---
+
+<p>Campaign site for Adidas Germany.  Users could visit the site, choose from a selection of short football clips & then use their microphone to record their own commentary for the clip.  Video clips were shared with friends and accessible through the site. </p>
+
+<p>Developed in Actionscript using the open source Red5 Flash Media Server</p>
+
+<p>images soon..</p>

@@ -1,0 +1,11 @@
+---
+title: Keith Tyson | Projects
+layout: page
+tags: ['intro','page']
+pageOrder: 6
+associatedFilesPath: "images/keithtyson-projects"
+---
+
+<p>Experimental project site for Turner Prize winning artist, <a href="http://en.wikipedia.org/wiki/Keith_Tyson" target="_blank">Keith Tyson</a>.  Site showcased Keith Tyson's major works over the last years. The site won a <a href="http://winners.webbyawards.com/2009/web/general-website-categories/art" target="_blank"/>Webby Award</a> For best in Art category.</p>
+
+<p>The user interface centralised around 2.5d starfield generated with a perlin noise algorithm and each project was broken down and visualised as layers on a molecule. Each project consisted of a synopsis about the artworks, relevant academic writings, gallery of images and a tailored "explore" section.  One example of the explore section was for the History Paintings series which involved creating a unique <a href="http://www.theguardian.com/culture/charlottehigginsblog/2008/dec/09/art">generative artwork</a> downloadable as an A3 PDF.</p>

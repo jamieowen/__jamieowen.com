@@ -1,0 +1,9 @@
+---
+title: OSA | Architects
+layout: page
+tags: ['intro','page']
+pageOrder: 7
+associatedFilesPath: "images/osa-architects"
+---
+
+<p>Company site for German archictects Ochs-Schmidhuber showcasing their work over the years.  Minimal design with an interesting navigational experience.  Content was navigated via a layered stack of collapsable numbered slides.  The slide stack count increased the deeper you navigated in to the content.  With the "leaf" content areas fanning out up to 8 image slides for each architectural project.  Navigating back up the sections caused the layers to collapse in on each other.  The site was featured in the D&AD Awards 2009 book.</p>

@@ -1,0 +1,46 @@
+```
+title: About
+isProject: false
+layout: page
+ignored: false
+```
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac diam nisi. Curabitur consectetur sem et dolor vulputate, in mollis nisi pharetra. Nulla blandit leo elit, id pretium lorem dignissim quis. Etiam pharetra euismod aliquet. Ut aliquam non neque non ultricies. Vestibulum eu erat eros. Vivamus consequat lectus suscipit, tristique odio in, auctor ante. Mauris felis quam, molestie id arcu ut, interdum mollis eros. Cras mauris orci, fermentum ac scelerisque nec, dictum a metus. Nam iaculis molestie metus, ut sollicitudin tortor. Sed pulvinar ultrices mi, sed faucibus tellus aliquet nec. Nulla viverra enim sit amet neque ultrices iaculis. Vestibulum velit turpis, tincidunt varius semper a, ornare in lectus.</p>
+
+
+<div class="row">
+	<div class="col-md-4 text-small">
+		<h1 class="text-flat-red">CODE</h1>
+		<ul class="list-unstyled text-upper text-bold">
+			<li>Actionscript ( Web / Mobile / Desktop )</li>
+			<li>JS / Coffeescript ( Web, Node.js, Mobile )</li>
+			<li>Python</li>
+			<li>C++, Obj-C, C# (Basic)</li>
+			<li>Java</li>
+		</ul>
+
+	</div>
+	<div class="col-md-4 text-small">
+		<h1 class="text-flat-red">CONCEPTS</h1>
+		<ul class="list-unstyled text-upper text-bold">
+			<li>Agile ( Scrum, Unit Testing, CI, etc )</li>
+			<li>MVC ( Backbone, Spine, Django, Robotlegs )</li>
+			<li>Version Control ( Git, SVN )</li>
+			<li>GPU Graphics ( Web GL, Stage3D, Starling, Three.js )</li>
+			<li>+Others</li>
+			<li></li>		
+		</ul>
+	</div>
+	<div class="col-md-4 text-small">
+		<h1 class="text-flat-red">SOFTWARE</h1>
+		<ul class="list-unstyled text-upper text-bold">
+			<li>Illustrator</li>
+			<li>Photoshop</li>
+			<li>Flash</li>
+			<li>Maya</li>
+			<li>+Others</li>
+			<li></li>
+		</ul>		
+	</div>		
+</div>
+

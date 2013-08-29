@@ -1,0 +1,11 @@
+---
+title: Fujitsu | Online Learning
+layout: page
+tags: ['intro','page']
+pageOrder: 4
+associatedFilesPath: "images/fujitsu-onlinelearning"
+---
+
+<p>E-learning software developed for the information technology company <a href="http://www.fujitsu.com/" target="_blank">Fujitsu</a>.  The software presented learning content for developing employees skills in key areas within the company; all navigatable via an interactive 3D office space.  Employee's progress were tracked across learning modules and viewable by team members and management via a control panel.  The software integrated into Fujitsu's internal employee database and content modules could be integrated into existing Learning Management Systems via <a href="http://scorm.com/scorm-explained/">Scorm</a> compliant implementation.</p>
+
+<p>The software was developed as a hybrid HTML5/Adobe Flex application with design & direction by agencies <a href="http://signal-noise.co.uk/" target="_blank">Signal-Noise</a> & <a href="http://www.ludicgroup.com/" target="_blank">Ludic Group</a>.</p>

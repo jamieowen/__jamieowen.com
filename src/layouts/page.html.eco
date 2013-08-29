@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article id="page" class="page">
+	<h1 class="text-large"><span class="text-gray-lighter"><%= @document.title.toString().split("|")[0] %></span><span class="text-flat-red"><%= @document.title.toString().split("|")[1] %></span></h1>
+	<div class="page-content text-large" >
+
+		<%- @content %>
+
+		<%- "<hr/>"	if @document.title != "About" %>
+
+		<% files = @getDocument().getAssociatedFiles().toJSON() %>
+		<% for file, i in files: %>
+			<p class="text-center">
+				<!--<br/>!-->
+				<img class="img-responsive" src="<%= file.url %>" title="<%= file.title or file.name %>" />
+				<!--<br/>
+				<small class="text-gray text-bold"><%= ( "00" + (i+1) ).slice(-2) %>&nbsp;/&nbsp;<span class="text-gray-darker"><%= ("00" + files.length ).slice(-2) %></span></small>!-->
+				<%- "<hr/>"	if i < files.length-1 %>
+			</p>
+		<% end %>
+		
+	</div>
+</article>

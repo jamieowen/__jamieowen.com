@@ -1,0 +1,13 @@
+---
+title: Blackberry | A Calendar of Tales
+layout: page
+tags: ['intro','page']
+pageOrder: 1
+associatedFilesPath: "images/blackberry-acalendaroftales"
+---
+
+<p>Campaign site for mobile phone manufacturer <a href="www.blackberry.com">Blackberry</a> and the popular author, <a href="http://www.neilgaiman.com/">Neil Gaimann</a>.  Neil Gaiman posted a series of monthly tweets posing questions about the month to his followers.  Followers were encouraged to reply and submit artwork around their answers with the favourite monthly answers being used to influence short stories written and narrated by Neil Gaiman himself.  An example question posed for February was: "What’s the strangest thing that ever happened to you in February?." Gaimanns favourite answer was: "Met a girl on beach, searching for her grandma’s pendant, lost 50 years ago. I had it, found previous Feb.”</p>
+
+<p>Site was developed in conjunction with Manchester based agency, <a href="http://www.the-neighbourhood.com/"/>The Neighbourhood</a>.  Fully HTML 5 & Canvas, it featured a custom tile based rendering engine written in Coffeescript, built on top of EaselJS with optional support for DOM rendering when targeting IE8.  The site used extensive use of spritesheet animations, dynamic particle animations and audio playback.</p>
+
+<p><a href="http://acalendaroftales.com/" target="_blank">visit site</a></p>
