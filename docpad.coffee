@@ -105,6 +105,10 @@ docpadConfig = {
 				}
 			]
 
+		ghpages: {
+			deployRemote: 'github'
+		}
+
 
 	# =================================
 	# DocPad Events
