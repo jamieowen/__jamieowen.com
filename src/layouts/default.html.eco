@@ -43,7 +43,7 @@
 			<div class="col-md-3 col-sm-6">
 				<hr/>
 				<h1 class="text-flat-red">About.</h1>
-				<p class="text-upper text-bold text-gray-light">Client work of Jamie Owen.<br/>Creative Technologist & Software Engineer<br/>based in Brighton, England. &nbsp; &nbsp;[<a href="/about" class="text-gray-dark text-bold">&nbsp;more&nbsp;</a>]</p>
+				<p class="text-upper text-bold text-gray-light">Client work of Jamie Owen.<br/>Creative Technologist & Software Engineer<br/>based in Brighton, England. &nbsp; &nbsp;[<a href="about" class="text-gray-dark text-bold">&nbsp;more&nbsp;</a>]</p>
 			</div>
 			<div class="col-md-3 col-sm-6">
 				<hr/>
@@ -80,7 +80,7 @@
 			<nav id="selected-work">
 				<div class="col-md-3 text-upper">
 					<hr/>	
-					<h1><a href="/" class="text-gray-dark">Client Work.</a></h1>
+					<h1><a href="." class="text-gray-dark">Client Work.</a></h1>
 					<ul class="list-unstyled">
 						<% for document, i in @getCollection('pages').toJSON(): %>
 							<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
