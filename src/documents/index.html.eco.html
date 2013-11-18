@@ -7,9 +7,9 @@ title: 'Jamie Owen | Selected Work'
 <% for document, i in @getCollection('pages').toJSON(): %>
 	<%- '<div class="row">' if i % 3 == 0 %>
 		<div class="col-lg-4">
-			<img class="img-responsive" src="images/project-thumbs/<%= document.basename %>-thumb.jpg"/>
-			<p class="text-center text-upper text-bold text-gray-light"><%= document.title.toString().split("|")[0] %></p>
-			<p class="text-center text-upper text-bold"><%= document.title.toString().split("|")[1] %></p>
+			<a href="<%= document.url %>" property="dc:title"><img class="img-responsive" src="images/project-thumbs/<%= document.basename %>-thumb.jpg"/></a>
+			<p class="text-center text-upper text-bold text-gray-light"><a href="<%= document.url %>" property="dc:title"><%= document.title.toString().split("|")[0] %><br/>
+			<span class="text-gray text-bold"><%= document.title.toString().split("|")[1] %></span></a></p>
 		</div>
 	<%- '</div>' if i % 3 == 2 %>
 <% end %>	

@@ -5,10 +5,20 @@ layout: page
 ignored: false
 ```
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac diam nisi. Curabitur consectetur sem et dolor vulputate, in mollis nisi pharetra. Nulla blandit leo elit, id pretium lorem dignissim quis. Etiam pharetra euismod aliquet. Ut aliquam non neque non ultricies. Vestibulum eu erat eros. Vivamus consequat lectus suscipit, tristique odio in, auctor ante. Mauris felis quam, molestie id arcu ut, interdum mollis eros. Cras mauris orci, fermentum ac scelerisque nec, dictum a metus. Nam iaculis molestie metus, ut sollicitudin tortor. Sed pulvinar ultrices mi, sed faucibus tellus aliquet nec. Nulla viverra enim sit amet neque ultrices iaculis. Vestibulum velit turpis, tincidunt varius semper a, ornare in lectus.</p>
+<p>Jamie is a Creative Technologist & Software Engineer with over 10+ years experience planning & developing both high-end digital advertising campaigns and enterprise scale software solutions.</p>
+
+<p>For the past 5 years he has freelanced & contracted on various projects.  Primarily as Lead Front-End Software Engineer on an enterprise-scale digital signage software for John Ryan International, who deliver digital signage solutions for banks such as Nordea & Bank of America.</p>
+
+<p>And also as a Creative Technologist for UK advertising agencies including AKQA, The Neighbourhood, Ludic Group and Signal Noise to develop high-end digital advertising campaigns, interactive installations, and e-learning solutions for clients such as Blackberry, Peugeot and Fujitsu.</p>
+
+<p>Prior to this he worked full-time for advertising agencies Proximity London, de-construct (Glue Isobar) and led development for many award winning interactive advertising campaign sites & games for clients such as Adidas, Disney, Royal Mail, Shell, Toyota & Wrigleys.</p>   
+
+<p>He is passionate about mixing a high standard of design with a solid technical implementation.  Has the ability to combine an intuitive eye for design with complex technical skills.  He has extensive experience in multiple programming languages, development paradigms & design software packages.</p> 
+
+<p>He continuously strives to improve his programming skills, monitor advances in technology and follows digital art, design, data visualisation and tech startup scenes with great interest.</p>
 
 
-<div class="row">
+<!--<div class="row">
 	<div class="col-md-4 text-small">
 		<h1 class="text-flat-red">CODE</h1>
 		<ul class="list-unstyled text-upper text-bold">
@@ -41,6 +51,6 @@ ignored: false
 			<li>+Others</li>
 			<li></li>
 		</ul>		
-	</div>		
+	</div>!-->
 </div>
 
