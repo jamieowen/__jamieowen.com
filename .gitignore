@@ -2,3 +2,5 @@ node_modules/
 out/
 src/files/vendor/twitter-bootstrap
 .DS_Store
+.idea
+threejs
